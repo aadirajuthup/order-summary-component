@@ -1,12 +1,118 @@
-.attribution { 
-    font-size: 11px; text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
+.attribution {font-size: 12px;text-align: center;margin-bottom: 2%;}
+.attribution a {color: hsl(228, 45%, 44%);}
 
 body {
     padding: 0px;
     margin: 0px;
+    font-family: 'Red Hat Display', sans-serif;
+    background: hsl(225, 100%, 94%) url("./images/pattern-background-desktop.svg") no-repeat top;
+    background-size: ;
+}
+
+.card {
+    display: block;
+    width: 33.12%;
+    padding-bottom: 2.5%;
+    margin: 7% auto;
+    background: white;
+    text-align: center;
+}
+
+.card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#order {
+    display: block;
+    margin: 9%;
+}
+
+#order h1{
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+    font-size: 200%;
+}
+
+#order p {
+    font-size: 100%;
+    color: hsl(224, 23%, 55%);
+}
+
+#plan {
+    background-color: hsl(225, 100%, 98%);
+    margin: 9%;
+    overflow: auto;
+}
+
+#plan img {
+    width: 14%;
+    float: left;
+    margin: 5%;
+}
+
+#plan-text {
+    margin: 0px;
+    float: left;
+    text-align: left;
+}
+
+#plan-text h3 {
+    color: hsl(223, 47%, 23%);
+    font-size: 103%;
+    font-weight: 900;
+}
+
+#plan-text p{
+    font-size: 90%;
+    font-weight: 500;
+    color: hsl(224, 23%, 55%);
+}
+
+#plan a {
+    float: right;
+    margin: 10% 7% 0% 0%;
+    color: hsl(245, 75%, 52%);
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 90%;
+    font-weight: 600;
+
+}
+
+#plan a:hover {
+    text-decoration: none;
+    color: hsl(245, 60%, 62%);
+}
+
+#checkout {
+    font-weight: 700;
+}
+
+#proceed {
+    display: block;
+    width: 82.5%;
+    padding: 3% 0% 3% 0%;
+    margin: 0% auto 3% auto;
+    text-decoration: none;
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+}
+
+#proceed:hover {
+    background-color: hsl(245, 60%, 62%);
+}
+
+#cancel {
+    display: block;
+    width: 82.5%;
+    padding: 3% 0% 3% 0%;
+    margin: auto;
+    text-decoration: none;
+    color:hsl(224, 23%, 55%);
+}
+
+#cancel:hover {
+    color: hsl(223, 47%, 23%);
 }
