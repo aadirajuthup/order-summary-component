@@ -47,7 +47,7 @@ I learned more than I could with any YouTube tutorial and other resources ever c
 
 ### Continued development
 
-I have to learn to make the shadows then I'll add them to the project. I made a kind of responsive site but not as responsive as I wanted it to be. I'll fix that later on as I learn more. I did everything here to the best of my abilities. Finishing off I would try to reimplement everything with flexbox.
+I have to learn to make the shadows then I'll add them to the project(Completed). I made a kind of responsive site but not as responsive as I wanted it to be. I'll fix that later on as I learn more. I did everything here to the best of my abilities. Finishing off I would try to reimplement everything with flexbox.
 
 ### Useful resources
 
