@@ -28,8 +28,8 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aadirajuthup/order-summary-component)
-- Live Site URL: [Add live site URL here](https://aadirajuthup.github.io/order-summary-component/)
+- Solution URL: [GitHub](https://github.com/aadirajuthup/order-summary-component)
+- Live Site URL: [GitHub Pages](https://aadirajuthup.github.io/order-summary-component/)
 
 ## My process
 
@@ -57,5 +57,5 @@ I have to learn to make the shadows then I'll add them to the project. I made a 
 
 ## Author
 
-- Website - [Aadi Raj Uthup](https://atomsoft.in)
+- Website - [Atomsoft](https://atomsoft.in)
 - Frontend Mentor - [@aadirajuthup](https://www.frontendmentor.io/profile/aadirajuthup)
