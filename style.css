@@ -125,3 +125,53 @@ body {
 #cancel:hover {
     color: hsl(223, 47%, 23%);
 }
+
+@media only screen and (max-width:800px) {
+
+    .card {
+        width: 65%;
+    }
+
+    #order h1 {
+        font-size: 120%;
+    }
+
+    #order p {
+        font-size: 60%;
+    }
+
+    #plan img {
+        width: 12%;
+    }
+
+    #plan h3 {
+        font-size: 70%;
+    }
+
+    #plan p{
+        font-size: 50%;
+    }
+
+    #plan a {
+        font-size: 60%;
+    }
+
+    #proceed {
+        font-size: 80%;
+    }
+
+    #cancel {
+        font-size: 80%;
+    }
+
+    .attribution {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width:375px) {
+
+    body {
+        background: hsl(225, 100%, 94%) url("./images/pattern-background-mobile.svg") no-repeat top;
+    }
+}
